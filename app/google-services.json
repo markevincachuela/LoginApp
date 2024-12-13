@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "396420570811",
+    "project_id": "kevslogincrashanalytics",
+    "storage_bucket": "kevslogincrashanalytics.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396420570811:android:0be85581802cd3ec55d39e",
+        "android_client_info": {
+          "package_name": "com.example.loginApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY5bgyX0d5-1EctgiMQgXT-nn6S7aSGmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
